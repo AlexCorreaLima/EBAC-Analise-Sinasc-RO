@@ -33,4 +33,4 @@ Este repositório contém a resolução da Tarefa do Módulo 06 do curso de **Ci
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/analise-sinasc-ro-ebac](https://github.com/AlexCorreaLima/EBAC-Analise-Sinasc-RO.git
+   git clone https://github.com/AlexCorreaLima/EBAC-Analise-Sinasc-RO.git
